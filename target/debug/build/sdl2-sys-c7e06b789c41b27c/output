@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=SDL2main
+cargo:rustc-link-lib=static=SDL2
+cargo:rustc-link-lib=sndio

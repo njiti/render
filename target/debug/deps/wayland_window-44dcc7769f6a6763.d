@@ -1,0 +1,10 @@
+/home/kamau/rust/render/target/debug/deps/libwayland_window-44dcc7769f6a6763.rmeta: /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/lib.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/decorated_surface.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/themed_pointer.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/mod.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/xdg.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/wl.rs
+
+/home/kamau/rust/render/target/debug/deps/wayland_window-44dcc7769f6a6763.d: /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/lib.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/decorated_surface.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/themed_pointer.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/mod.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/xdg.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/wl.rs
+
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/lib.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/decorated_surface.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/themed_pointer.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/mod.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/xdg.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-window-0.8.0/src/shell/wl.rs:

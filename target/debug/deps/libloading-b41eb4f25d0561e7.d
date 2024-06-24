@@ -1,0 +1,12 @@
+/home/kamau/rust/render/target/debug/deps/liblibloading-b41eb4f25d0561e7.rmeta: /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/lib.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/changelog.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/mod.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/unix/mod.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/unix/consts.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/util.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/error.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/safe.rs
+
+/home/kamau/rust/render/target/debug/deps/libloading-b41eb4f25d0561e7.d: /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/lib.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/changelog.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/mod.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/unix/mod.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/unix/consts.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/util.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/error.rs /home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/safe.rs
+
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/lib.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/changelog.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/mod.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/unix/mod.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/os/unix/consts.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/util.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/error.rs:
+/home/kamau/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.4/src/safe.rs:
